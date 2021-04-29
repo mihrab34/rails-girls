@@ -26,3 +26,7 @@ th {
 body { 
   margin: 0; 
 }
+.gravatar {
+  height: 30px;
+  width: auto;
+}
